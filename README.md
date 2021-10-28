@@ -1,4 +1,4 @@
-# Effective_Troubleshooting
+# Effective Troubleshooting
 
 Troubleshooting is a skill every technical individual needs to have because we will all inevitably run into errors we can't solve!
 
